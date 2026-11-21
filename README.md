@@ -12,6 +12,7 @@ A banca examinadora recebe a versão impressa. Para quem prefere ler no computad
 |---|---|
 | Monografia completa, com apêndices | [docs/TCC_EstagioCheck.pdf](docs/TCC_EstagioCheck.pdf) |
 | Declaração de uso de ferramentas de IA | [docs/Declaracao_Uso_IA.pdf](docs/Declaracao_Uso_IA.pdf) |
+| Análise de Impacto e Mudanças (AIM), com a contagem de pontos de função | [docs/AIM_EstagioCheck.pdf](docs/AIM_EstagioCheck.pdf) |
 | Diagrama de casos de uso (ampliado) | [docs/diagrama_casos_de_uso.png](docs/diagrama_casos_de_uso.png) |
 | Diagrama entidade-relacionamento (ampliado) | [docs/diagrama_entidade_relacionamento.png](docs/diagrama_entidade_relacionamento.png) |
 
