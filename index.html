@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EstágioCheck · TCC de Ciência da Computação (UDF)</title>
+<meta name="description" content="Materiais digitais do TCC EstágioCheck para a banca examinadora.">
+<style>
+  :root { --azul:#0b5fa5; --azul-claro:#e8f1fa; --texto:#1d2733; --cinza:#5b6675; --borda:#d9e1ea; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; color:var(--texto); background:#f6f8fb; line-height:1.5; }
+  header { background:var(--azul); color:#fff; padding:40px 20px 32px; }
+  .wrap { max-width:820px; margin:0 auto; }
+  .tag { font-size:.85rem; letter-spacing:.06em; text-transform:uppercase; opacity:.85; margin:0 0 8px; }
+  h1 { font-size:1.6rem; line-height:1.25; margin:0 0 12px; }
+  header p { margin:4px 0; }
+  main { padding:24px 20px 48px; }
+  section { margin-bottom:28px; }
+  h2 { font-size:1.15rem; margin:0 0 12px; color:var(--azul); }
+  .cards { display:grid; gap:12px; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); }
+  a.card { display:block; background:#fff; border:1px solid var(--borda); border-radius:10px; padding:16px; text-decoration:none; color:inherit; transition:border-color .15s, box-shadow .15s; }
+  a.card:hover, a.card:focus { border-color:var(--azul); box-shadow:0 2px 10px rgba(11,95,165,.12); outline:none; }
+  .card strong { display:block; color:var(--azul); margin-bottom:4px; }
+  .card span { font-size:.9rem; color:var(--cinza); }
+  .info { background:#fff; border:1px solid var(--borda); border-radius:10px; padding:16px 18px; }
+  .info dl { margin:0; display:grid; grid-template-columns:max-content 1fr; gap:6px 16px; }
+  .info dt { font-weight:600; }
+  .info dd { margin:0; }
+  .resumo { background:var(--azul-claro); border-radius:10px; padding:16px 18px; }
+  footer { text-align:center; font-size:.85rem; color:var(--cinza); padding:0 20px 32px; }
+  @media (max-width:520px){ h1{font-size:1.3rem;} .info dl{grid-template-columns:1fr;} .info dd{margin-bottom:6px;} }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="tag">Trabalho de Conclusão de Curso · Ciência da Computação · UDF</p>
+    <h1>EstágioCheck: sistema web para registro de presença e atividades de estudantes de Enfermagem em clínica</h1>
+    <p>Gabriel Tavares Pereira Silva · Gustavo Lucas Santos Silva · Kauã de Sousa da Costa · Renan Ribeiro Mauricio</p>
+    <p>Orientadora: Prof.ª Dr.ª Kadidja Valéria Reginaldo de Oliveira</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section>
+    <h2>Documentos</h2>
+    <div class="cards">
+      <a class="card" href="docs/TCC_EstagioCheck.pdf" target="_blank" rel="noopener">
+        <strong>Monografia completa (PDF)</strong>
+        <span>Texto final do TCC, com apêndices. 164 páginas, 8 MB.</span>
+      </a>
+      <a class="card" href="docs/Declaracao_Uso_IA.pdf" target="_blank" rel="noopener">
+        <strong>Declaração de uso de IA (PDF)</strong>
+        <span>Ferramentas de IA usadas no trabalho e em quais etapas.</span>
+      </a>
+      <a class="card" href="docs/diagrama_casos_de_uso.png" target="_blank" rel="noopener">
+        <strong>Diagrama de casos de uso</strong>
+        <span>Versão ampliada, para ler no celular ou no computador.</span>
+      </a>
+      <a class="card" href="docs/diagrama_entidade_relacionamento.png" target="_blank" rel="noopener">
+        <strong>Diagrama entidade-relacionamento</strong>
+        <span>Modelo do banco de dados em tamanho maior.</span>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>Defesa</h2>
+    <div class="info">
+      <dl>
+        <dt>Data</dt><dd>A confirmar</dd>
+        <dt>Horário</dt><dd>A confirmar</dd>
+        <dt>Local</dt><dd>A confirmar</dd>
+        <dt>Banca</dt><dd>Prof.ª Dr.ª Kadidja Valéria Reginaldo de Oliveira (orientadora)<br>Prof. Me. Wilson Amaral (examinador)</dd>
+      </dl>
+    </div>
+  </section>
+
+  <section>
+    <h2>Sobre o trabalho</h2>
+    <div class="resumo">
+      <p style="margin:0">O EstágioCheck é um sistema web para registro de presença e gerenciamento de estágios supervisionados de Enfermagem. Feito com Angular, .NET e PostgreSQL/Supabase, ele tem check-in e check-out com geolocalização e foto, gestão de turmas, rodízios e unidades de saúde, acompanhamento formativo, tratamento de irregularidades, certificados e auditoria.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Centro Universitário do Distrito Federal – UDF · Brasília, 2026
+</footer>
+</body>
+</html>
