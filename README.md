@@ -22,6 +22,9 @@ A banca examinadora recebe a versão impressa. Para quem prefere ler no computad
 | Documento | Arquivo |
 |---|---|
 | Análise de Impacto e Mudanças (AIM), com a contagem de pontos de função | [docs/AIM_EstagioCheck.pdf](docs/AIM_EstagioCheck.pdf) |
+| Manual de uso do aluno | [docs/Manual_de_Uso_Aluno.pdf](docs/Manual_de_Uso_Aluno.pdf) |
+| Guia de uso do preceptor | [docs/Guia_de_Uso_Preceptor.pdf](docs/Guia_de_Uso_Preceptor.pdf) |
+| Guia de uso do professor | [docs/Guia_de_Uso_Professor.pdf](docs/Guia_de_Uso_Professor.pdf) |
 
 ### Documentos institucionais
 
