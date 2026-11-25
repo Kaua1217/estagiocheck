@@ -17,17 +17,17 @@ A banca examinadora recebe a versão impressa. Para quem prefere ler no computad
 | Diagrama de casos de uso (ampliado) | [docs/diagrama_casos_de_uso.png](docs/diagrama_casos_de_uso.png) |
 | Diagrama entidade-relacionamento (ampliado) | [docs/diagrama_entidade_relacionamento.png](docs/diagrama_entidade_relacionamento.png) |
 
-### Documentos institucionais
-
-| Documento | Arquivo |
-|---|---|
-| Registro de frequência e orientação de TCC (Anexo III) | [docs/Registro_Frequencia_Orientacao_TCC.pdf](docs/Registro_Frequencia_Orientacao_TCC.pdf) |
-
 ### Documentos internos do projeto
 
 | Documento | Arquivo |
 |---|---|
 | Análise de Impacto e Mudanças (AIM), com a contagem de pontos de função | [docs/AIM_EstagioCheck.pdf](docs/AIM_EstagioCheck.pdf) |
+
+### Documentos institucionais
+
+| Documento | Arquivo |
+|---|---|
+| Registro de frequência e orientação de TCC (Anexo III) | [docs/Registro_Frequencia_Orientacao_TCC.pdf](docs/Registro_Frequencia_Orientacao_TCC.pdf) |
 
 ## Sobre o trabalho
 
