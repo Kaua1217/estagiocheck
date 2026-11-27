@@ -44,6 +44,6 @@ O EstágioCheck é um sistema web para registro de presença e gerenciamento de 
 - Renan Ribeiro Mauricio
 
 **Orientadora:** Prof.ª Dr.ª Kadidja Valéria Reginaldo de Oliveira
-**Examinador:** Prof. Me. Wilson Amaral
+**Examinadores:** Prof. Mariana Cristina dos Santos Souza, Prof. Barbara de Caldas Melo, Prof. Gabriel de Oliveira Alves
 
 Centro Universitário do Distrito Federal – UDF · Brasília, 2026
