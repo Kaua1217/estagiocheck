@@ -43,7 +43,7 @@ O EstágioCheck é um sistema web para registro de presença e gerenciamento de 
 - Kauã de Sousa da Costa
 - Renan Ribeiro Mauricio
 
-**Orientadora:** Prof.ª Dr.ª Kadidja Valéria Reginaldo de Oliveira
-**Examinadores:** Prof. Mariana Cristina dos Santos Souza, Prof. Barbara de Caldas Melo, Prof. Esp. Gabriel de Oliveira Alves, Prof. Me. Eliel Silva da Cruz
+**Orientadora:** Prof.ª M.ª Kadidja Valéria Reginaldo de Oliveira
+**Examinadores:** Prof. Esp. Gabriel de Oliveira Alves (Coordenador), Prof. Me. Eliel Silva da Cruz, Convidado externo (Representante docente do Curso de Enfermagem UDF)
 
 Centro Universitário do Distrito Federal – UDF · Brasília, 2026
